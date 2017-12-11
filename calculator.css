@@ -7,7 +7,7 @@
 	background-color: #e5e7ea;
 	height: 300px;
 	width: 250px;
-	borde-radius:10px;
+	border-radius:10px;
 	position: relative;
 	top: 80px;
 	left: 40%;
@@ -18,11 +18,12 @@
 .display {
 	background-color: #BFC4CE;
 	width: 220px;
-	position:relative;
+	position: relative;
 	left: 15px;
 	top: 20px;
 	height: 40px;
 }
+
 .display input {
 	position: relative;
 	left: 2px;
@@ -30,12 +31,12 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #bcc95;
+	background-color: #bccd95;
 	font-size: 21px;
 	text-align: right;
 }
 
-/* Calcultor Buttons */
+/* Calculator Buttons */
 .key {
 	position: relative;
 	top: 15px;
