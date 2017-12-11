@@ -13,3 +13,24 @@
 	left: 40%;
 	
 }
+
+/* Display */
+.display {
+	background-color: #BFC4CE;
+	width: 220px;
+	position:relative;
+	left: 15px;
+	top: 20px;
+	height: 40px;
+}
+.display input {
+	position: relative;
+	left: 2px;
+	top: 2px;
+	height: 30px;
+	width: 210px;
+	color: black;
+	background-color: #bcc95;
+	font-size: 21px;
+	text-align: right;
+}
