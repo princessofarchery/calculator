@@ -1,11 +1,11 @@
 // JavaScript Document
 
-//Change Display
+// Change Display
 function d(val) {
 	document.getElementById("d") . value = val;
 }
 
-//type numbers and operators 
+// Type numbers and operators 
 function v(val) {
 	document.getElementById("d"). value += val;
 	
