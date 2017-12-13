@@ -2,7 +2,7 @@
 
 /* Calculator Box */
 .box {
-	background-color: #e5e7ea;
+	background-color: #B711FE;
 	height: 300px;
 	width: 250px;
 	border-radius: 10px;
@@ -26,8 +26,8 @@
 	top: 2px;
 	height: 30px;
 	width: 210px;
-	color: black;
-	background-color: #bccd95;
+	color: white;
+	background-color: #2E0A4F;
 	font-size: 21px;
 	text-align: right;
 }
